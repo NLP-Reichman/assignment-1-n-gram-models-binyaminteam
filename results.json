@@ -1,0 +1,29 @@
+{
+  "test_link": {
+    "link": "https://drive.google.com/file/d/1x_VAeEy5kF3ZDmYhbVylWSroZu3Y88Fx/view?usp=sharing"
+  },
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_build_lm": {
+    "english_2_gram_length": 747,
+    "english_3_gram_length": 8549,
+    "french_3_gram_length": 8580,
+    "spanish_3_gram_length": 8866
+  },
+  "test_eval": {
+    "en_on_en": 17.95,
+    "en_on_fr": 36.04,
+    "en_on_tl": 43.06,
+    "en_on_nl": 38.37
+  },
+  "test_generate": {
+    "english_2_gram": "ell1Gige omyo & he't",
+    "english_3_gram": "ebompirs ans appree ",
+    "english_4_gram": "r. Zo Are froming #M",
+    "spanish_2_gram": " POVarive ndicren ce",
+    "spanish_3_gram": " ensanta oto el 200 ",
+    "french_2_gram": " je\"R  vilene \"\n",
+    "french_3_gram": "tre? C'es pet \u00eate to"
+  }
+}
